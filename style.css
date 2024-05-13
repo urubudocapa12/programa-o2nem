@@ -7,6 +7,7 @@ header {
 .cabecalho-imagem{
     width: 20%;
 }
+
 .cabecalho {
     background-color: #424E61;
     color: white;
@@ -15,3 +16,8 @@ header {
     align-items: center;
     padding: 24px 0;
 }
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+}
+
